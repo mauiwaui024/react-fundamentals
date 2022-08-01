@@ -1,0 +1,16 @@
+.page__wrapper{
+    display: flex;
+    margin: 20px 0;
+    justify-content: center;
+  }
+
+  .page{
+    border: 1px solid teal;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .page__current{
+    border: 2px solid #ec8226;
+    font-weight: bold;
+  }
