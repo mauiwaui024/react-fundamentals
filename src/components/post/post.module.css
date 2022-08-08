@@ -6,3 +6,11 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.btns{
+    display: flex;
+}
+
+.btns button{
+    margin-left: 15px;
+}
